@@ -1,4 +1,4 @@
-### Java игра Car Parking Hardcore
+### Старая Java игра Car Parking Hardcore
 Web версия: https://avdim.github.io/car-parking-hardcore/  
 Android версия: https://play.google.com/store/apps/details?id=com.murkitty.parking  
 
