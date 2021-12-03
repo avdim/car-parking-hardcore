@@ -1,0 +1,20 @@
+###### Custom #############################
+.exclude
+
+###### Gradle ##############################
+build
+.gradle
+
+###### Idea ###############################
+.idea
+*.ipr
+*.iws
+*.iml
+
+###### Android #############################
+out/
+local.properties
+
+##### OS Specific ##########################
+.DS_Store
+Thumbs.db
