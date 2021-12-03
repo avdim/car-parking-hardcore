@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE module PUBLIC "-//Google Inc.//DTD Google Web Toolkit trunk//EN" "http://google-web-toolkit.googlecode.com/svn/trunk/distro-source/core/src/gwt-module.dtd">
+<module>
+	<source path="com/murkitty/parking" />
+	<source path="com/brashmonkey/spriter" />
+	<source path="com/uwsoft/editor/renderer" />
+	<source path="com/gwt_fix" />
+	<!--https://github.com/libgdx/libgdx/wiki/Reflection-->
+	<extend-configuration-property name="gdx.reflect.include" value="com.brashmonkey.spriter" />
+	<extend-configuration-property name="gdx.reflect.include" value="com.uwsoft.editor.renderer" />
+	<extend-configuration-property name="gdx.reflect.include" value="com.badlogic.ashley" /><!--todo simplify-->
+	<extend-configuration-property name="gdx.reflect.include" value="com.badlogic.ashley" /><!--todo simplify-->
+	<extend-configuration-property name="gdx.reflect.include" value="com.murkitty.parking.model" /><!--todo simplify Car-->
+</module>

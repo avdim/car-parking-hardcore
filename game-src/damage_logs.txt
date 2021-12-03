@@ -1,0 +1,32 @@
+html:
+mur-tag: separations: a=0, min=0, max=0, zeroes=20016
+mur-tag: normal: a=0.3803101309320747, min=0, max=5.863103653351095, zeroes=9881
+mur-tag: tangent: a=-0.0018493405153239897, min=-0.6244657567159366, max=0.2939523100513063, zeroes=19396
+
+Desktop:
+mur-tag: separations: a=16688.328348042018, min=-0.1175442487001419, max=1.56269552E8, zeroes=3245
+mur-tag: normal: a=0.3356896453876137, min=-0.0, max=4.144237518310547, zeroes=1586
+mur-tag: tangent: a=-5.924131347781224E-4, min=-0.19403009116649628, max=0.07639633119106293, zeroes=6030
+
+android LG:
+I/mur-tag: separations: a=-0.0017567216210790195, min=-0.026280352845788002, max=0.01912325993180275, zeroes=1
+I/mur-tag: normal: a=0.17984029172850674, min=-0.0, max=2.5827949047088623, zeroes=14361
+I/mur-tag: tangent: a=0.00192933138955235, min=-0.11390577256679535, max=0.34138163924217224, zeroes=25723
+
+android Samsung:
+I/mur-tag: separations: a=2.0160154025842028E18, min=-0.05410423129796982, max=4.214772216404902E18, zeroes=0
+I/mur-tag: normal: a=7.016133624399255E13, min=-0.0, max=1.4706345978626048E16, zeroes=5248
+I/mur-tag: tangent: a=1.177999210901099E11, min=-0.03939652070403099, max=2.54186365124608E14, zeroes=14324
+
+
+Desktop:
+mur-tag: normal 1.5707964, 4.5644E-41, tangent 0.0, 0.0
+mur-tag: normal 1.5707964, 4.5593E-41, tangent 0.0, 0.0
+
+Android Samsung:
+normal 1.5707964, 2.521339E14, tangent 0.0, 4.2932363
+normal 1.5707964, 2.520923E14, tangent 0.0, 4.2932363
+normal 1.5707964, 2.520923E14, tangent 0.0, 4.2932363
+
+
+
